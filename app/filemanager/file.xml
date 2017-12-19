@@ -1,0 +1,42 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 
+  navigatingTo="navigatingTo"
+	loaded="onLoaded" shownModally="onShownModally" unloaded="onUnloaded">
+
+      <StackLayout>
+        <ScrollView orientation="horizontal" style="background-color:#4292b8;color:#fff;" height="40" verticalAlignment="center">
+          <StackLayout orientation="horizontal" >
+            <Label text="&#xf10b;" class="fa" style="font-size:32;text-align:center;" height="32" width="30" tap="home"/>
+            <Repeater items="{{ parentpaths }}" style="margin:10 5 10 0;">
+                <Repeater.itemsLayout>
+                    <WrapLayout />
+                 </Repeater.itemsLayout>
+                <Repeater.itemTemplate>
+                    <StackLayout orientation="horizontal">
+                        <Label text="/" style="margin-right:5;"/> 
+                        <Label text="{{ title }}" style="margin-right:5;" tap="loncat"/>
+                    </StackLayout>
+                </Repeater.itemTemplate>
+             </Repeater>    
+          </StackLayout>
+        </ScrollView>
+        
+        <ListView items="{{ myItemss }}" id="listview">
+            <ListView.itemTemplate>
+              <GridLayout columns="auto * auto" tap="insert" style="padding:5;">
+                <StackLayout  col="0"   style="background-color:#4292b8;border-radius:5;margin: 0 5;" verticalAlignment="center" height="35" width="35" visibility="{{ isFile ? 'collapsed' : 'visible' }}">
+                  <Label text="&#xf114;" class="fa" style="text-align:center;font-size:25;color:#fff;"/>
+                </StackLayout>
+
+                <Image src="{{ path }}" visibility="{{ isFile && ext=='image' ? 'visible' : 'collapsed' }}" height="35" width="35" style="margin: 0 5;"/>
+
+                <StackLayout  col="0"  style="background-color:#f0f1f2;border-radius:5;margin: 0 5" verticalAlignment="center" height="35" width="35" visibility="{{ isFile && ext=='file' ? 'visible' : 'collapsed' }}">
+                  <Label text="&#xf0f6;" class="fa" style="text-align:center;font-size:25;color:#4292b8;"/>
+                </StackLayout>
+                
+                <Label text="{{ title }}" style="font-size:15;font-weight:bold;margin: 0 5" col="1" />
+
+              </GridLayout>
+            </ListView.itemTemplate>
+        </ListView>
+    </StackLayout> 
+</Page>
