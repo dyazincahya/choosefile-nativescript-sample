@@ -1,0 +1,78 @@
+{
+  "_from": "nativescript-fonticon",
+  "_id": "nativescript-fonticon@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-H/mB4V27Q4Lv7uJ4c5IXuTHBHcw=",
+  "_location": "/nativescript-fonticon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-fonticon",
+    "name": "nativescript-fonticon",
+    "escapedName": "nativescript-fonticon",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-fonticon/-/nativescript-fonticon-1.1.1.tgz",
+  "_shasum": "1ff981e15dbb4382efeee278739217b931c11dcc",
+  "_spec": "nativescript-fonticon",
+  "_where": "/home/kang/Nativescript/choosefile-nativescript-sample",
+  "author": {
+    "name": "Nathan Walker",
+    "email": "walkerrunpdx@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanWalker/nativescript-fonticon/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Nathanael Anderson",
+      "email": "nathan@master-technology",
+      "url": "https://github.com/nathanaela"
+    }
+  ],
+  "deprecated": false,
+  "description": "Use custom font icon collections seamlessly with NativeScript.",
+  "homepage": "https://github.com/NathanWalker/nativescript-fonticon",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "iOS",
+    "icon",
+    "font icon",
+    "font"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/NathanWalker/nativescript-fonticon/blob/master/LICENSE"
+  },
+  "main": "nativescript-fonticon",
+  "name": "nativescript-fonticon",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0",
+      "ios": "2.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanWalker/nativescript-fonticon.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo; cd demo; tns run android",
+    "demo.ios": "npm run preparedemo; cd demo; tns emulate ios",
+    "preparedemo": "npm run build; cd demo; tns plugin remove nativescript-fonticon; tns plugin add ..; tns install",
+    "setup": "cd demo; npm install; cd ..; npm run build; cd demo; tns plugin add ..; cd .."
+  },
+  "typings": "index.d.ts",
+  "version": "1.1.1"
+}

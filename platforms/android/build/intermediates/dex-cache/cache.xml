@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-25.3.1_f465796e2a2108c9bbb25da786cfabdb682188e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-25.3.1_7dd455ba32b4a8ff9cb314ceb4429822c125896b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-25.3.1_333d06b1929953b5d0c30eeb9afc48c832d03200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/exsample/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/exsample-runtime-unspecified_d941f01923246d9fd91e9f73fcc43e72e47b1144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-25.3.1_b3c209898f0fddc73bcb3f5e9d499320752e6fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-25.3.1_cda665198fe103d10c22f3c97f3ac81e9f22957d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/exsample/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_11250a7ba632ed3c2a9a0250cb2725041ca20276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-25.3.1_6b44bc294d3ae0cd60478ff681509fe55310516f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-25.3.1_296066b9584777ed6eb5fb971caf2c58139a7abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-25.3.1_29b5f7784ddc8f7be6f09e315532a13cfaa7e763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-25.3.1_89b58d2efc63626ac0fa133dbb54fa3483ca3744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_2418acd95e816670fe5dbaec4a43e66752903f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-25.3.1_a119a812432c0cdcc3a4c856e5756ad691b29765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-25.3.1_581afdc4a1b8f75c28d93e4928b2b7ec0651e108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-25.3.1_34827f8a3404f3c6ef4fb025ee7fdc1ef7539ea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-25.3.1_c856027b593b8f821ec9ca67d310788373afd582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/exploded-aar/net.gotev/uploadservice/3.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="679035e7050e209cfa2bd29f08c20eecbec96063">
+        <dex dex="/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/pre-dexed/F0F1/debug/net.gotev-uploadservice-3.0.3_163ec8b421e1211a2d1ce7dd17b61c6d5fd7eab3.jar" />
+    </item>
+
+</items>

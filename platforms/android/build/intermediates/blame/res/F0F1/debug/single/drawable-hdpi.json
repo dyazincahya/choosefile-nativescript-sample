@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/logo.png",
+        "source": "/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/background.png",
+        "source": "/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/icon.png",
+        "source": "/home/kang/Nativescript/choosefile-nativescript-sample/platforms/android/src/main/res/drawable-hdpi/icon.png"
+    }
+]
