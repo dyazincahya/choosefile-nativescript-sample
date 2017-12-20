@@ -1,9 +1,0 @@
-<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="loaded" class="page">
-
-    <Page.actionBar>
-        <ActionBar title="My App" icon="" class="action-bar">
-        </ActionBar>
-    </Page.actionBar>
-
-    <button text="Choose File" ontap="chooseFile" />
-</Page>

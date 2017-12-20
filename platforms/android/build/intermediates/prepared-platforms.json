@@ -1,9 +1,0 @@
-{
-    "nativescript-background-http": true,
-    "nativescript-fonticon": true,
-    "nativescript-permissions": true,
-    "nativescript-theme-core": true,
-    "nativescript-toast": true,
-    "tns-core-modules": true,
-    "tns-core-modules-widgets": true
-}
