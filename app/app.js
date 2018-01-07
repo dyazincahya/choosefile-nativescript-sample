@@ -20,7 +20,6 @@ var resources = application.getResources();
 resources['fonticon'] = nativescript_fonticon_1.fonticon;
 application.setResources(resources);
 
-// application.start({ moduleName: "main-page" });
 application.start({ moduleName: "main-page" });
 /*
 Do not place any code after the application has been started as it will not

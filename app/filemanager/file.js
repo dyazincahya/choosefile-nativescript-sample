@@ -65,7 +65,7 @@ exports.navigatingTo = function(args) {
 
     context = new theNavigation.NavigationViewModel(page);
     listview=page.getViewById("listview");
-    masuk("/");
+    masuk("/sdcard");
     page.bindingContext = context;
 };
 
@@ -84,7 +84,7 @@ exports.insert = function(args){
 }
 
 exports.home = function(){
-    masuk("/");
+    masuk("/sdcard");
 }
 
 exports.loncat = function(args){
@@ -108,7 +108,7 @@ exports.onLoaded = function(args) {
     page = args.object;
     context = new theNavigation.NavigationViewModel(page);
     listview=page.getViewById("listview");
-    masuk("/");
+    masuk("/sdcard");
     page.bindingContext = context;
 };
 
